@@ -1,5 +1,6 @@
 #ROCK_PAPER_SCISSOR GAME
 
-\n
-Its just a basic game which i made using some normal coding in Python \n
+
+Its just a basic game which i made using some normal coding in Python
+
 HOPE YOU LIKE IT.....😉
